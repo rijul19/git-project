@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 additional details: the authentication system will use jwt tokens.
+=======
+new feature: user authentication system
+>>>>>>> feature-update
